@@ -12,7 +12,7 @@ namespace RockPaperScissors
         {
             GUI gui = new GUI();
 
-            gui.game();
+            gui.Game();
         }
     }
 }
