@@ -11,7 +11,6 @@ namespace RockPaperScissors
         static void Main(string[] args)
         {
             GUI gui = new GUI();
-
             gui.Game();
         }
     }

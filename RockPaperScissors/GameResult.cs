@@ -21,7 +21,5 @@ namespace RockPaperScissors
         {
             this.Result = result;
         }
-
-       
     }
 }
