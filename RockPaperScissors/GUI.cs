@@ -10,7 +10,7 @@ namespace RockPaperScissors
     class GUI
     {
         //Object of classes
-        Game rps = new Game();
+        GameResult rps = new GameResult();
         Gameplay gameplay = new Gameplay();
         Player player = new Player("Rasmus", 0);
         Player computer = new Player("Computer", 0);

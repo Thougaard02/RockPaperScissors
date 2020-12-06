@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace RockPaperScissors
 {
 
-    class Game
+    class GameResult
     {
         private string result;
 
@@ -17,7 +17,7 @@ namespace RockPaperScissors
             set { result = value; }
         }
 
-        public Game()
+        public GameResult()
         {
             this.Result = result;
         }

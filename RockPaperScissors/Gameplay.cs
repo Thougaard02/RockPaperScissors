@@ -8,7 +8,7 @@ namespace RockPaperScissors
 {
     class Gameplay
     {
-        public string[] RockPaperScissors(Player player, Player computer, Game game)
+        public string[] RockPaperScissors(Player player, Player computer, GameResult game)
         {
 
             //int[] choice = new int[3] { 1, 2, 3 };
